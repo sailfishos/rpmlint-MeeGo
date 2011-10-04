@@ -1,0 +1,17 @@
+* Sun May 15 2011 Anas Nashif <anas.nashif@intel.com> - 1.0
+- Updated rules
+
+* Wed Apr 06 2011 Anas Nashif <anas.nashif@intel.com> - 1.0
+- Obsolete rpmlint-Moblin
+
+* Thu Jan 27 2011 Marko Saukko <marko.saukko@cybercom.com> - 1.0
+- Added BuildArch: noarch to fix build with rpmlint
+
+* Mon May 10 2010 Anas Nashif <anas.nashif@intel.com> - 1.0
+- Update badness levels
+
+* Thu May 06 2010 Anas Nashif <anas.nashif@intel.com> - 1.0
+- Do not treat file duplication as errors for now
+
+* Tue Nov 25 2008 Anas Nashif <anas.nashif@intel.com> 1.0
+- initial import into moblin
